@@ -2,7 +2,7 @@
 # out the current state.
 
 def display_board board_array
-  puts "   "" | ""   "
+  puts "   "" | ""   "" | ""   "
 end
 
 display_board()
