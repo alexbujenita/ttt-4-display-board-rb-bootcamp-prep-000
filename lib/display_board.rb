@@ -3,6 +3,8 @@
 
 def display_board board_array
   puts "   "" | ""   "" | ""   "
+  puts "   "" | ""   "" | ""   "
+  puts "   "" | ""   "" | ""   "
 end
 
 display_board("a")
