@@ -4,3 +4,5 @@
 def display_board board_array
   puts "   "" | ""   "
 end
+
+display_board(a)
